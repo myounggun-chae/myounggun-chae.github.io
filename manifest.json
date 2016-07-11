@@ -1,0 +1,13 @@
+{
+	name: "myounggun",
+	short_name: "myounggun",
+	icons: [
+		{
+		src: "https://myounggun-chae.github.io/img/logo_200x200.png",
+		sizes: "200x200",
+		density: "4.0"
+		}
+	],
+	start_url: "/",
+	orientation: "portrait"
+}
